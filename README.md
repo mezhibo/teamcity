@@ -1,5 +1,3 @@
-![alt text](https://github.com/mezhibo/ansible_expluatation/blob/043bbea12f1bc0c292f9f734f16b404762a73998/IMG/1.jpg)
-
 **Подготовка к выполнению**
 
 1. В Yandex Cloud создайте новый инстанс (4CPU4RAM) на основе образа jetbrains/teamcity-server.
